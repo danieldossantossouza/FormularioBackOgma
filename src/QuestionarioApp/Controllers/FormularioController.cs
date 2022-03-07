@@ -58,12 +58,13 @@ namespace QuestionarioApp.Controllers
 		// GET: FornecedorController/Edit/5
 		public async Task<ActionResult> Edit(Guid id)
 		{
-			var fornecedorViewModel = await ObterFormularioResposta(id);
+			var fornecedorViewModel = await _formularioRepository.ObterPerguntaResposta(id);
 			if (fornecedorViewModel == null)
 			{
-				return NotFound();
+				return View(fornecedorViewModel);
 			}
-			return View(fornecedorViewModel);
+			
+			return NotFound();
 		}
 
 		// POST: FornecedorController/Edit/5
@@ -109,7 +110,11 @@ namespace QuestionarioApp.Controllers
 
 		private async Task<FormularioViewModel> ObterFormularioResposta(Guid id)
 		{
-			return _mapper.Map<FormularioViewModel>(await _formularioRepository.ObterPerguntaResposta(id));
+			var formulario = await _formularioRepository.ObterPerguntaResposta(id);
+			return _mapper.Map<FormularioViewModel>(formulario);
+
+
+			
 		}
 	}
 }

@@ -59,7 +59,7 @@ namespace QuetionarioData.Repository
 		}
 		public void Dispose()
 		{
-			db.Dispose();
+			db?.Dispose();
 		}
 
 	}

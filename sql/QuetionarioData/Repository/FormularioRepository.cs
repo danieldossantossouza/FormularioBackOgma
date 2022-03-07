@@ -14,7 +14,7 @@ namespace QuetionarioData.Repository
 		public FormularioRepository(MeuDbContext context) : base(context) { }
 		public async Task<Formulario> ObterPerguntaResposta(Guid id)
 		{
-			return await db.Formularios.AsNoTracking().Include(p => p.Pergunta)
+			return await db.Formularios.AsNoTracking()
 				.FirstOrDefaultAsync(p=>p.Id == id);
 		}
 

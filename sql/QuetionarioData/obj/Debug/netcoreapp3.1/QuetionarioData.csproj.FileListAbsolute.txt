@@ -1,0 +1,15 @@
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuetionarioData.deps.json
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuetionarioData.runtimeconfig.json
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuetionarioData.runtimeconfig.dev.json
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuetionarioData.dll
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuetionarioData.pdb
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuestionarioBisiness.dll
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\bin\Debug\netcoreapp3.1\QuestionarioBisiness.pdb
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.csprojAssemblyReference.cache
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.AssemblyInfoInputs.cache
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.AssemblyInfo.cs
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.csproj.CoreCompileInputs.cache
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.csproj.CopyComplete
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.dll
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.pdb
+C:\Ogma\QuestionarioOgmaBack\sql\QuetionarioData\obj\Debug\netcoreapp3.1\QuetionarioData.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\bin\Debug\netcoreapp3.1\QuestionarioBisiness.deps.json
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\bin\Debug\netcoreapp3.1\QuestionarioBisiness.dll
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\bin\Debug\netcoreapp3.1\QuestionarioBisiness.pdb
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.csprojAssemblyReference.cache
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.AssemblyInfoInputs.cache
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.AssemblyInfo.cs
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.csproj.CoreCompileInputs.cache
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.dll
+C:\Ogma\QuestionarioOgmaBack\src\QuestionarioBisiness\obj\Debug\netcoreapp3.1\QuestionarioBisiness.pdb

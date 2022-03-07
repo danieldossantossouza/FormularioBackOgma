@@ -36,7 +36,6 @@ namespace QuetionarioData.Migrations
                         .HasColumnType("varchar(5000)");
 
                     b.Property<string>("Resposta")
-                        .IsRequired()
                         .HasColumnType("varchar(5000)");
 
                     b.Property<int>("TipoFormulario")
